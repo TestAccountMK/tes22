@@ -1,0 +1,307 @@
+[INFO ] 2020-07-18 16:03:07,933 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 16:03:07,939 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 17:07:18,579 com.automation.testlistener.ListenerClass- This is at the start
+[INFO ] 2020-07-18 17:07:18,888 com.automation.utilities.FrameWorkUtility- report path is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-18-Jul_17_07_18
+[INFO ] 2020-07-18 17:07:18,889 com.automation.utilities.FrameWorkUtility- report file is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-18-Jul_17_07_18\reportSat_Jul_18_17_07_18_IST_2020.html
+[INFO ] 2020-07-18 17:07:18,893 com.automation.testlistener.ListenerClass- Test is skipped[TestResult name=feature status=SKIP method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@26aa12dd] output={null}]
+[INFO ] 2020-07-18 17:07:19,166 com.automation.testlistener.ListenerClass- Test Finish
+[INFO ] 2020-07-18 17:12:42,708 com.automation.testlistener.ListenerClass- This is at the start
+[INFO ] 2020-07-18 17:12:42,996 com.automation.utilities.FrameWorkUtility- report path is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-18-Jul_17_12_42
+[INFO ] 2020-07-18 17:12:42,997 com.automation.utilities.FrameWorkUtility- report file is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-18-Jul_17_12_42\reportSat_Jul_18_17_12_42_IST_2020.html
+[INFO ] 2020-07-18 17:12:43,002 com.automation.testlistener.ListenerClass- Test is skipped[TestResult name=feature status=SKIP method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@26aa12dd] output={null}]
+[INFO ] 2020-07-18 17:12:43,231 com.automation.testlistener.ListenerClass- Test Finish
+[INFO ] 2020-07-18 17:13:46,114 com.automation.testlistener.ListenerClass- This is at the start
+[INFO ] 2020-07-18 17:13:46,377 com.automation.utilities.FrameWorkUtility- report path is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-18-Jul_17_13_46
+[INFO ] 2020-07-18 17:13:46,378 com.automation.utilities.FrameWorkUtility- report file is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-18-Jul_17_13_46\reportSat_Jul_18_17_13_46_IST_2020.html
+[INFO ] 2020-07-18 17:13:46,452 com.automation.testlistener.ListenerClass- Test stated successful[TestResult name=feature status=STARTED method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@26aa12dd] output={null}]
+[INFO ] 2020-07-18 17:13:46,688 com.automation.testlistener.ListenerClass- Test is successful[TestResult name=feature status=SUCCESS method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@26aa12dd] output={null}]
+[INFO ] 2020-07-18 17:13:46,689 com.ebayapp.runner.TestRunner- @After Method : Closing All sessions
+[INFO ] 2020-07-18 17:13:46,693 com.automation.drivers.BrowserDriverManager- No driver instance to close
+[INFO ] 2020-07-18 17:13:46,712 com.automation.drivers.MobileDriverManager- No driver instance to close
+[ERROR] 2020-07-18 17:13:46,721 com.automation.utilities.PropertyFileHandler- File dosent Exists :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\src\test\resources\properties\application.properties
+[ERROR] 2020-07-18 17:13:46,721 com.automation.utilities.PropertyFileHandler- Incorrect password to decrypt the paramater(Update system environment variable -xautomationPass )java.lang.NullPointerException
+[INFO ] 2020-07-18 17:13:47,067 com.automation.testlistener.ListenerClass- Test Finish
+[INFO ] 2020-07-18 17:13:47,085 com.ebayapp.runner.TestRunner- @AfterSuite : Closing All sessions
+[INFO ] 2020-07-18 17:13:47,086 com.automation.drivers.BrowserDriverManager- No driver instance to close
+[INFO ] 2020-07-18 17:13:47,086 com.automation.drivers.MobileDriverManager- No driver instance to close
+[INFO ] 2020-07-18 17:15:03,748 com.automation.testlistener.ListenerClass- This is at the start
+[INFO ] 2020-07-18 17:15:04,040 com.automation.utilities.FrameWorkUtility- report path is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-18-Jul_17_15_04
+[INFO ] 2020-07-18 17:15:04,040 com.automation.utilities.FrameWorkUtility- report file is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-18-Jul_17_15_04\reportSat_Jul_18_17_15_04_IST_2020.html
+[INFO ] 2020-07-18 17:15:04,112 com.automation.testlistener.ListenerClass- Test stated successful[TestResult name=feature status=STARTED method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@26aa12dd] output={null}]
+[INFO ] 2020-07-18 17:15:04,269 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 17:15:05,573 com.automation.testlistener.ListenerClass- Test  onTestFailure[TestResult name=feature status=FAILURE method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@26aa12dd] output={null}]
+[INFO ] 2020-07-18 17:15:05,585 com.ebayapp.runner.TestRunner- @After Method : Closing All sessions
+[INFO ] 2020-07-18 17:15:05,586 com.automation.drivers.BrowserDriverManager- No driver instance to close
+[INFO ] 2020-07-18 17:15:05,587 com.automation.drivers.MobileDriverManager- No driver instance to close
+[ERROR] 2020-07-18 17:15:05,599 com.automation.utilities.PropertyFileHandler- File dosent Exists :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\src\test\resources\properties\application.properties
+[ERROR] 2020-07-18 17:15:05,599 com.automation.utilities.PropertyFileHandler- Incorrect password to decrypt the paramater(Update system environment variable -xautomationPass )java.lang.NullPointerException
+[INFO ] 2020-07-18 17:15:05,919 com.automation.testlistener.ListenerClass- Test Finish
+[INFO ] 2020-07-18 17:15:05,942 com.ebayapp.runner.TestRunner- @AfterSuite : Closing All sessions
+[INFO ] 2020-07-18 17:15:05,942 com.automation.drivers.BrowserDriverManager- No driver instance to close
+[INFO ] 2020-07-18 17:15:05,942 com.automation.drivers.MobileDriverManager- No driver instance to close
+[INFO ] 2020-07-18 17:21:14,190 com.automation.testlistener.ListenerClass- This is at the start
+[INFO ] 2020-07-18 17:21:14,489 com.automation.utilities.FrameWorkUtility- report path is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-18-Jul_17_21_14
+[INFO ] 2020-07-18 17:21:14,490 com.automation.utilities.FrameWorkUtility- report file is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-18-Jul_17_21_14\reportSat_Jul_18_17_21_14_IST_2020.html
+[INFO ] 2020-07-18 17:21:14,574 com.automation.testlistener.ListenerClass- Test stated successful[TestResult name=feature status=STARTED method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@26aa12dd] output={null}]
+[INFO ] 2020-07-18 17:21:14,753 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 17:21:15,282 com.automation.testlistener.ListenerClass- Test  onTestFailure[TestResult name=feature status=FAILURE method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@26aa12dd] output={null}]
+[INFO ] 2020-07-18 17:21:15,296 com.ebayapp.runner.TestRunner- @After Method : Closing All sessions
+[INFO ] 2020-07-18 17:21:15,297 com.automation.drivers.BrowserDriverManager- No driver instance to close
+[INFO ] 2020-07-18 17:21:15,298 com.automation.drivers.MobileDriverManager- No driver instance to close
+[ERROR] 2020-07-18 17:21:15,311 com.automation.utilities.PropertyFileHandler- File dosent Exists :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\src\test\resources\properties\application.properties
+[ERROR] 2020-07-18 17:21:15,312 com.automation.utilities.PropertyFileHandler- Incorrect password to decrypt the paramater(Update system environment variable -xautomationPass )java.lang.NullPointerException
+[INFO ] 2020-07-18 17:21:15,698 com.automation.testlistener.ListenerClass- Test Finish
+[INFO ] 2020-07-18 17:21:15,721 com.ebayapp.runner.TestRunner- @AfterSuite : Closing All sessions
+[INFO ] 2020-07-18 17:21:15,722 com.automation.drivers.BrowserDriverManager- No driver instance to close
+[INFO ] 2020-07-18 17:21:15,722 com.automation.drivers.MobileDriverManager- No driver instance to close
+[INFO ] 2020-07-18 17:21:30,324 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 17:30:30,823 com.automation.testlistener.ListenerClass- This is at the start
+[INFO ] 2020-07-18 17:30:31,169 com.automation.utilities.FrameWorkUtility- report path is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-18-Jul_17_30_31
+[INFO ] 2020-07-18 17:30:31,170 com.automation.utilities.FrameWorkUtility- report file is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-18-Jul_17_30_31\reportSat_Jul_18_17_30_31_IST_2020.html
+[INFO ] 2020-07-18 17:30:31,241 com.automation.testlistener.ListenerClass- Test stated successful[TestResult name=feature status=STARTED method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@1f554b06] output={null}]
+[INFO ] 2020-07-18 17:30:31,457 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 17:30:32,111 com.automation.testlistener.ListenerClass- Test  onTestFailure[TestResult name=feature status=FAILURE method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@1f554b06] output={null}]
+[INFO ] 2020-07-18 17:30:32,117 com.ebayapp.runner.TestRunner- @After Method : Closing All sessions
+[INFO ] 2020-07-18 17:30:32,118 com.automation.drivers.BrowserDriverManager- No driver instance to close
+[INFO ] 2020-07-18 17:30:32,118 com.automation.drivers.MobileDriverManager- No driver instance to close
+[ERROR] 2020-07-18 17:30:32,136 com.automation.utilities.PropertyFileHandler- File dosent Exists :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\src\test\resources\properties\application.properties
+[ERROR] 2020-07-18 17:30:32,137 com.automation.utilities.PropertyFileHandler- Incorrect password to decrypt the paramater(Update system environment variable -xautomationPass )java.lang.NullPointerException
+[INFO ] 2020-07-18 17:30:32,574 com.automation.testlistener.ListenerClass- Test Finish
+[INFO ] 2020-07-18 17:30:32,623 com.ebayapp.runner.TestRunner- @AfterSuite : Closing All sessions
+[INFO ] 2020-07-18 17:30:32,623 com.automation.drivers.BrowserDriverManager- No driver instance to close
+[INFO ] 2020-07-18 17:30:32,624 com.automation.drivers.MobileDriverManager- No driver instance to close
+[INFO ] 2020-07-18 17:41:35,987 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 17:46:44,683 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 17:48:24,272 com.automation.testlistener.ListenerClass- This is at the start
+[INFO ] 2020-07-18 17:48:24,590 com.automation.utilities.FrameWorkUtility- report path is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-18-Jul_17_48_24
+[INFO ] 2020-07-18 17:48:24,590 com.automation.utilities.FrameWorkUtility- report file is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-18-Jul_17_48_24\reportSat_Jul_18_17_48_24_IST_2020.html
+[INFO ] 2020-07-18 17:48:24,673 com.automation.testlistener.ListenerClass- Test stated successful[TestResult name=feature status=STARTED method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@6d3af739] output={null}]
+[INFO ] 2020-07-18 17:48:24,821 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 17:48:55,330 com.automation.testlistener.ListenerClass- Test  onTestFailure[TestResult name=feature status=FAILURE method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@6d3af739] output={null}]
+[INFO ] 2020-07-18 17:48:55,356 com.ebayapp.runner.TestRunner- @After Method : Closing All sessions
+[INFO ] 2020-07-18 17:48:55,357 com.automation.drivers.BrowserDriverManager- No driver instance to close
+[INFO ] 2020-07-18 17:48:55,357 com.automation.drivers.MobileDriverManager- No driver instance to close
+[ERROR] 2020-07-18 17:48:55,375 com.automation.utilities.PropertyFileHandler- File dosent Exists :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\src\test\resources\properties\application.properties
+[ERROR] 2020-07-18 17:48:55,376 com.automation.utilities.PropertyFileHandler- Incorrect password to decrypt the paramater(Update system environment variable -xautomationPass )java.lang.NullPointerException
+[INFO ] 2020-07-18 17:48:55,970 com.automation.testlistener.ListenerClass- Test Finish
+[INFO ] 2020-07-18 17:48:56,000 com.ebayapp.runner.TestRunner- @AfterSuite : Closing All sessions
+[INFO ] 2020-07-18 17:48:56,001 com.automation.drivers.BrowserDriverManager- No driver instance to close
+[INFO ] 2020-07-18 17:48:56,001 com.automation.drivers.MobileDriverManager- No driver instance to close
+[INFO ] 2020-07-18 17:49:54,766 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 17:52:33,492 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 18:17:09,939 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 18:19:58,189 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 18:20:39,210 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 18:22:14,835 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 18:26:33,513 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 18:28:02,023 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 18:29:12,346 com.automation.testlistener.ListenerClass- This is at the start
+[INFO ] 2020-07-18 18:29:12,670 com.automation.utilities.FrameWorkUtility- report path is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-18-Jul_18_29_12
+[INFO ] 2020-07-18 18:29:12,670 com.automation.utilities.FrameWorkUtility- report file is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-18-Jul_18_29_12\reportSat_Jul_18_18_29_12_IST_2020.html
+[INFO ] 2020-07-18 18:29:12,752 com.automation.testlistener.ListenerClass- Test stated successful[TestResult name=feature status=STARTED method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@6d3af739] output={null}]
+[INFO ] 2020-07-18 18:29:12,913 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 18:29:45,987 com.automation.testlistener.ListenerClass- Test is successful[TestResult name=feature status=SUCCESS method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@6d3af739] output={null}]
+[INFO ] 2020-07-18 18:29:45,991 com.ebayapp.runner.TestRunner- @After Method : Closing All sessions
+[INFO ] 2020-07-18 18:29:45,995 com.automation.drivers.BrowserDriverManager- No driver instance to close
+[ERROR] 2020-07-18 18:29:47,395 com.automation.utilities.PropertyFileHandler- File dosent Exists :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\src\test\resources\properties\application.properties
+[ERROR] 2020-07-18 18:29:47,397 com.automation.utilities.PropertyFileHandler- Incorrect password to decrypt the paramater(Update system environment variable -xautomationPass )java.lang.NullPointerException
+[INFO ] 2020-07-18 18:29:47,718 com.automation.testlistener.ListenerClass- Test Finish
+[INFO ] 2020-07-18 18:29:47,736 com.ebayapp.runner.TestRunner- @AfterSuite : Closing All sessions
+[INFO ] 2020-07-18 18:29:47,736 com.automation.drivers.BrowserDriverManager- No driver instance to close
+[INFO ] 2020-07-18 18:29:47,737 com.automation.drivers.MobileDriverManager- No driver instance to close
+[INFO ] 2020-07-18 18:35:41,743 com.automation.testlistener.ListenerClass- This is at the start
+[INFO ] 2020-07-18 18:35:42,176 com.automation.utilities.FrameWorkUtility- report path is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-18-Jul_18_35_42
+[INFO ] 2020-07-18 18:35:42,176 com.automation.utilities.FrameWorkUtility- report file is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-18-Jul_18_35_42\reportSat_Jul_18_18_35_42_IST_2020.html
+[INFO ] 2020-07-18 18:35:42,309 com.automation.testlistener.ListenerClass- Test stated successful[TestResult name=feature status=STARTED method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@4efc180e] output={null}]
+[INFO ] 2020-07-18 18:35:42,468 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 19:13:19,813 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 19:14:56,064 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 19:22:17,766 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 19:25:52,043 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 19:29:51,782 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 19:56:27,794 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 21:21:50,321 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 21:30:40,067 com.automation.testlistener.ListenerClass- This is at the start
+[INFO ] 2020-07-18 21:30:40,494 com.automation.utilities.FrameWorkUtility- report path is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-18-Jul_21_30_40
+[INFO ] 2020-07-18 21:30:40,494 com.automation.utilities.FrameWorkUtility- report file is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-18-Jul_21_30_40\reportSat_Jul_18_21_30_40_IST_2020.html
+[INFO ] 2020-07-18 21:30:40,590 com.automation.testlistener.ListenerClass- Test stated successful[TestResult name=feature status=STARTED method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@16022d9d] output={null}]
+[INFO ] 2020-07-18 21:30:40,963 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 21:31:04,667 com.automation.testlistener.ListenerClass- Test is successful[TestResult name=feature status=SUCCESS method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@16022d9d] output={null}]
+[INFO ] 2020-07-18 21:31:04,678 com.ebayapp.runner.TestRunner- @After Method : Closing All sessions
+[INFO ] 2020-07-18 21:31:04,681 com.automation.drivers.BrowserDriverManager- No driver instance to close
+[ERROR] 2020-07-18 21:31:06,086 com.automation.utilities.PropertyFileHandler- File dosent Exists :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\src\test\resources\properties\application.properties
+[ERROR] 2020-07-18 21:31:06,087 com.automation.utilities.PropertyFileHandler- Incorrect password to decrypt the paramater(Update system environment variable -xautomationPass )java.lang.NullPointerException
+[INFO ] 2020-07-18 21:31:06,604 com.automation.testlistener.ListenerClass- Test Finish
+[INFO ] 2020-07-18 21:31:06,662 com.ebayapp.runner.TestRunner- @AfterSuite : Closing All sessions
+[INFO ] 2020-07-18 21:31:06,662 com.automation.drivers.BrowserDriverManager- No driver instance to close
+[INFO ] 2020-07-18 21:31:06,663 com.automation.drivers.MobileDriverManager- No driver instance to close
+[INFO ] 2020-07-18 21:33:35,567 com.automation.testlistener.ListenerClass- This is at the start
+[INFO ] 2020-07-18 21:33:35,884 com.automation.utilities.FrameWorkUtility- report path is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-18-Jul_21_33_35
+[INFO ] 2020-07-18 21:33:35,885 com.automation.utilities.FrameWorkUtility- report file is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-18-Jul_21_33_35\reportSat_Jul_18_21_33_35_IST_2020.html
+[INFO ] 2020-07-18 21:33:35,971 com.automation.testlistener.ListenerClass- Test stated successful[TestResult name=feature status=STARTED method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@16022d9d] output={null}]
+[INFO ] 2020-07-18 21:33:36,110 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 21:33:59,491 com.automation.testlistener.ListenerClass- Test is successful[TestResult name=feature status=SUCCESS method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@16022d9d] output={null}]
+[INFO ] 2020-07-18 21:33:59,498 com.ebayapp.runner.TestRunner- @After Method : Closing All sessions
+[INFO ] 2020-07-18 21:33:59,501 com.automation.drivers.BrowserDriverManager- No driver instance to close
+[ERROR] 2020-07-18 21:34:00,836 com.automation.utilities.PropertyFileHandler- File dosent Exists :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\src\test\resources\properties\application.properties
+[ERROR] 2020-07-18 21:34:00,837 com.automation.utilities.PropertyFileHandler- Incorrect password to decrypt the paramater(Update system environment variable -xautomationPass )java.lang.NullPointerException
+[INFO ] 2020-07-18 21:34:01,151 com.automation.testlistener.ListenerClass- Test Finish
+[INFO ] 2020-07-18 21:34:01,183 com.ebayapp.runner.TestRunner- @AfterSuite : Closing All sessions
+[INFO ] 2020-07-18 21:34:01,184 com.automation.drivers.BrowserDriverManager- No driver instance to close
+[INFO ] 2020-07-18 21:34:01,184 com.automation.drivers.MobileDriverManager- No driver instance to close
+[INFO ] 2020-07-18 21:38:23,001 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 21:46:50,905 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 21:48:19,814 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 21:58:54,178 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 21:59:59,938 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 22:03:38,399 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 22:21:57,184 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 22:23:25,874 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 22:25:05,208 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 22:25:53,658 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 22:27:02,760 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 22:28:07,976 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 22:36:56,728 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 22:43:50,888 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 22:45:54,680 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 22:48:05,341 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 22:49:52,417 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 22:51:20,501 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 22:54:32,219 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 22:56:44,449 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 23:06:56,147 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 23:15:20,333 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 23:19:48,898 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 23:23:50,568 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 23:30:58,224 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 23:35:37,316 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-18 23:47:19,206 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 00:00:18,111 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 01:22:23,136 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 10:12:05,209 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 10:13:13,068 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 10:15:09,965 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 10:16:58,403 com.automation.testlistener.ListenerClass- This is at the start
+[INFO ] 2020-07-19 10:16:59,017 com.automation.utilities.FrameWorkUtility- report path is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-19-Jul_10_16_58
+[INFO ] 2020-07-19 10:16:59,018 com.automation.utilities.FrameWorkUtility- report file is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-19-Jul_10_16_58\reportSun_Jul_19_10_16_59_IST_2020.html
+[INFO ] 2020-07-19 10:16:59,170 com.automation.testlistener.ListenerClass- Test stated successful[TestResult name=feature status=STARTED method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@3bf9ce3e] output={null}]
+[INFO ] 2020-07-19 10:16:59,443 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 10:17:45,281 com.automation.testlistener.ListenerClass- Test  onTestFailure[TestResult name=feature status=FAILURE method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@3bf9ce3e] output={null}]
+[INFO ] 2020-07-19 10:17:48,324 com.ebayapp.runner.TestRunner- @After Method : Closing All sessions
+[INFO ] 2020-07-19 10:17:48,329 com.automation.drivers.BrowserDriverManager- No driver instance to close
+[INFO ] 2020-07-19 10:17:48,335 com.automation.drivers.MobileDriverManager- No driver instance to close
+[ERROR] 2020-07-19 10:18:18,164 com.automation.utilities.PropertyFileHandler- File dosent Exists :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\src\test\resources\properties\application.properties
+[ERROR] 2020-07-19 10:18:20,043 com.automation.utilities.PropertyFileHandler- Incorrect password to decrypt the paramater(Update system environment variable -xautomationPass )java.lang.NullPointerException
+[INFO ] 2020-07-19 10:25:37,662 com.automation.testlistener.ListenerClass- This is at the start
+[INFO ] 2020-07-19 10:25:38,076 com.automation.utilities.FrameWorkUtility- report path is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-19-Jul_10_25_38
+[INFO ] 2020-07-19 10:25:38,078 com.automation.utilities.FrameWorkUtility- report file is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-19-Jul_10_25_38\reportSun_Jul_19_10_25_38_IST_2020.html
+[INFO ] 2020-07-19 10:25:38,204 com.automation.testlistener.ListenerClass- Test stated successful[TestResult name=feature status=STARTED method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@44a3ec6b] output={null}]
+[INFO ] 2020-07-19 10:25:38,374 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 10:25:39,072 com.automation.testlistener.ListenerClass- Test  onTestFailure[TestResult name=feature status=FAILURE method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@44a3ec6b] output={null}]
+[INFO ] 2020-07-19 10:25:39,093 com.ebayapp.runner.TestRunner- @After Method : Closing All sessions
+[INFO ] 2020-07-19 10:25:39,094 com.automation.drivers.BrowserDriverManager- No driver instance to close
+[INFO ] 2020-07-19 10:25:39,094 com.automation.drivers.MobileDriverManager- No driver instance to close
+[ERROR] 2020-07-19 10:25:39,109 com.automation.utilities.PropertyFileHandler- File dosent Exists :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\src\test\resources\properties\application.properties
+[ERROR] 2020-07-19 10:25:39,109 com.automation.utilities.PropertyFileHandler- Incorrect password to decrypt the paramater(Update system environment variable -xautomationPass )java.lang.NullPointerException
+[INFO ] 2020-07-19 10:25:39,681 com.automation.testlistener.ListenerClass- Test Finish
+[INFO ] 2020-07-19 10:25:39,792 com.ebayapp.runner.TestRunner- @AfterSuite : Closing All sessions
+[INFO ] 2020-07-19 10:25:39,792 com.automation.drivers.BrowserDriverManager- No driver instance to close
+[INFO ] 2020-07-19 10:25:39,793 com.automation.drivers.MobileDriverManager- No driver instance to close
+[INFO ] 2020-07-19 10:26:18,609 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 10:53:09,864 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 10:55:24,517 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 11:25:17,223 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 11:26:21,798 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 11:27:56,661 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 11:29:31,411 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 11:43:13,404 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 11:45:19,053 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 11:47:00,035 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 11:50:45,643 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 12:10:30,317 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 12:25:32,975 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 12:37:44,616 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 12:45:36,170 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 12:46:16,315 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 12:48:30,800 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 14:38:31,583 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 14:40:06,848 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 14:50:35,805 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 15:03:07,232 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 15:11:55,939 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 15:15:30,552 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 15:17:45,685 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 15:29:32,853 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 15:31:02,628 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 15:33:43,133 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 15:35:55,859 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 15:44:32,696 com.automation.testlistener.ListenerClass- This is at the start
+[INFO ] 2020-07-19 15:44:33,173 com.automation.utilities.FrameWorkUtility- report path is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-19-Jul_15_44_33
+[INFO ] 2020-07-19 15:44:33,173 com.automation.utilities.FrameWorkUtility- report file is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-19-Jul_15_44_33\reportSun_Jul_19_15_44_33_IST_2020.html
+[INFO ] 2020-07-19 15:44:33,294 com.automation.testlistener.ListenerClass- Test stated successful[TestResult name=feature status=STARTED method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@44a3ec6b] output={null}]
+[INFO ] 2020-07-19 15:44:33,520 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 15:44:34,214 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 15:44:34,546 com.automation.testlistener.ListenerClass- Test  onTestFailure[TestResult name=feature status=FAILURE method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@44a3ec6b] output={null}]
+[INFO ] 2020-07-19 15:44:34,552 com.ebayapp.runner.TestRunner- @After Method : Closing All sessions
+[INFO ] 2020-07-19 15:44:34,553 com.automation.drivers.BrowserDriverManager- No driver instance to close
+[INFO ] 2020-07-19 15:44:34,553 com.automation.drivers.MobileDriverManager- No driver instance to close
+[ERROR] 2020-07-19 15:44:34,624 com.automation.utilities.PropertyFileHandler- File dosent Exists :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\src\test\resources\properties\application.properties
+[ERROR] 2020-07-19 15:44:34,625 com.automation.utilities.PropertyFileHandler- Incorrect password to decrypt the paramater(Update system environment variable -xautomationPass )java.lang.NullPointerException
+[INFO ] 2020-07-19 15:44:35,313 com.automation.testlistener.ListenerClass- Test Finish
+[INFO ] 2020-07-19 15:44:35,414 com.ebayapp.runner.TestRunner- @AfterSuite : Closing All sessions
+[INFO ] 2020-07-19 15:44:35,415 com.automation.drivers.BrowserDriverManager- No driver instance to close
+[INFO ] 2020-07-19 15:44:35,415 com.automation.drivers.MobileDriverManager- No driver instance to close
+[INFO ] 2020-07-19 15:52:38,709 com.automation.testlistener.ListenerClass- This is at the start
+[INFO ] 2020-07-19 15:52:39,103 com.automation.utilities.FrameWorkUtility- report path is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-19-Jul_15_52_39
+[INFO ] 2020-07-19 15:52:39,104 com.automation.utilities.FrameWorkUtility- report file is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-19-Jul_15_52_39\reportSun_Jul_19_15_52_39_IST_2020.html
+[INFO ] 2020-07-19 15:52:39,226 com.automation.testlistener.ListenerClass- Test stated successful[TestResult name=feature status=STARTED method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@44a3ec6b] output={null}]
+[INFO ] 2020-07-19 15:52:39,396 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 15:52:40,173 com.automation.testlistener.ListenerClass- Test  onTestFailure[TestResult name=feature status=FAILURE method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@44a3ec6b] output={null}]
+[INFO ] 2020-07-19 15:52:40,180 com.ebayapp.runner.TestRunner- @After Method : Closing All sessions
+[INFO ] 2020-07-19 15:52:40,181 com.automation.drivers.BrowserDriverManager- No driver instance to close
+[INFO ] 2020-07-19 15:52:40,181 com.automation.drivers.MobileDriverManager- No driver instance to close
+[ERROR] 2020-07-19 15:52:40,194 com.automation.utilities.PropertyFileHandler- File dosent Exists :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\src\test\resources\properties\application.properties
+[ERROR] 2020-07-19 15:52:40,194 com.automation.utilities.PropertyFileHandler- Incorrect password to decrypt the paramater(Update system environment variable -xautomationPass )java.lang.NullPointerException
+[INFO ] 2020-07-19 15:52:40,633 com.automation.testlistener.ListenerClass- Test Finish
+[INFO ] 2020-07-19 15:52:40,669 com.ebayapp.runner.TestRunner- @AfterSuite : Closing All sessions
+[INFO ] 2020-07-19 15:52:40,670 com.automation.drivers.BrowserDriverManager- No driver instance to close
+[INFO ] 2020-07-19 15:52:40,670 com.automation.drivers.MobileDriverManager- No driver instance to close
+[INFO ] 2020-07-19 16:05:33,572 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 16:07:13,560 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 16:08:35,846 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 16:10:16,470 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 16:12:19,415 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 16:14:23,181 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 16:16:41,175 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 16:18:44,318 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-19 16:21:57,668 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-21 14:31:39,661 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-21 14:39:18,730 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-21 14:43:35,144 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-21 14:50:53,314 com.automation.testlistener.ListenerClass- This is at the start
+[INFO ] 2020-07-21 14:50:53,322 com.automation.testlistener.ListenerClass- This is at the start
+[INFO ] 2020-07-21 14:50:53,679 com.automation.utilities.FrameWorkUtility- report path is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-21-Jul_14_50_53
+[INFO ] 2020-07-21 14:50:53,680 com.automation.utilities.FrameWorkUtility- report file is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-21-Jul_14_50_53\reportTue_Jul_21_14_50_53_IST_2020.html
+[INFO ] 2020-07-21 14:50:53,787 com.automation.testlistener.ListenerClass- Test stated successful[TestResult name=feature status=STARTED method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@5c072e3f] output={null}]
+[INFO ] 2020-07-21 14:50:53,792 com.automation.testlistener.ListenerClass- Test stated successful[TestResult name=feature status=STARTED method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@5c072e3f] output={null}]
+[INFO ] 2020-07-21 14:50:53,970 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-21 14:50:54,617 com.automation.testlistener.ListenerClass- Test  onTestFailure[TestResult name=feature status=FAILURE method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@5c072e3f] output={null}]
+[INFO ] 2020-07-21 14:50:54,623 com.automation.testlistener.ListenerClass- Test  onTestFailure[TestResult name=feature status=FAILURE method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@5c072e3f] output={null}]
+[INFO ] 2020-07-21 14:50:54,625 com.ebayapp.runner.TestRunner- @After Method : Closing All sessions
+[INFO ] 2020-07-21 14:50:54,626 com.automation.drivers.MobileDriverManager- No driver instance to close
+[INFO ] 2020-07-21 14:50:55,139 com.automation.testlistener.ListenerClass- Test Finish
+[INFO ] 2020-07-21 14:50:55,238 com.automation.testlistener.ListenerClass- Test Finish
+[INFO ] 2020-07-21 14:50:55,239 com.ebayapp.runner.TestRunner- @AfterSuite : Closing All sessions
+[INFO ] 2020-07-21 14:50:55,240 com.automation.drivers.MobileDriverManager- No driver instance to close
+[INFO ] 2020-07-21 14:52:25,878 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-21 14:53:27,956 com.automation.testlistener.ListenerClass- This is at the start
+[INFO ] 2020-07-21 14:53:28,245 com.automation.utilities.FrameWorkUtility- report path is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-21-Jul_14_53_28
+[INFO ] 2020-07-21 14:53:28,245 com.automation.utilities.FrameWorkUtility- report file is :C:\Users\MKANKAT\eclipse-workspace\eBayFramework\Output\2020-21-Jul_14_53_28\reportTue_Jul_21_14_53_28_IST_2020.html
+[INFO ] 2020-07-21 14:53:28,333 com.automation.testlistener.ListenerClass- Test stated successful[TestResult name=feature status=STARTED method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@47db50c5] output={null}]
+[INFO ] 2020-07-21 14:53:28,447 com.automation.testlistener.CucumberHooks- @CucumberHooks Before Class trigger
+[INFO ] 2020-07-21 14:53:28,948 com.automation.testlistener.ListenerClass- Test  onTestFailure[TestResult name=feature status=FAILURE method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.ebayapp.runner.TestRunner@47db50c5] output={null}]
+[INFO ] 2020-07-21 14:53:28,956 com.ebayapp.runner.TestRunner- @After Method : Closing All sessions
+[INFO ] 2020-07-21 14:53:28,957 com.automation.drivers.MobileDriverManager- No driver instance to close
+[INFO ] 2020-07-21 14:53:29,310 com.automation.testlistener.ListenerClass- Test Finish
+[INFO ] 2020-07-21 14:53:29,428 com.ebayapp.runner.TestRunner- @AfterSuite : Closing All sessions
+[INFO ] 2020-07-21 14:53:29,429 com.automation.drivers.MobileDriverManager- No driver instance to close
